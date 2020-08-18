@@ -6,7 +6,7 @@ This is the repository for my solutions to the Machine Learning course coumputer
 
 **Computer Assignment 2:** Implementation of Perceptron And Logestic Regression. 
 
-**Computer Assignment 3:** Exploratory Data Analysis(EDA) on Titanic Dataset.
+**Computer Assignment 3:** Exploratory Data Analysis (EDA) on Titanic Dataset.
 
 **Computer Assignment 4:** Using serveral classification method to classify the Titanic dataset and compared the results.
 
